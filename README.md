@@ -28,9 +28,9 @@ Train the data and then predict using Tensorflow Write your own steps
 
 /*
 
-Devoloped by : narendra.pathakamuri
+Devoloped by : THAMARAISELVAN V
 
-RegisterNumber:212221040117
+RegisterNumber:212221230115
 
 */
 
